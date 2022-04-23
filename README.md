@@ -30,12 +30,6 @@ Using our Machine Learning Model, we can:
 1. Modify variables and predict what changes can be made to identify if the review is popular or not
 2. Predict potential popular book reviews with positive sentiment score and put it in the front page of GoodReads to receive increased interest in reader for that particular book
 3. Book reviewers can understand better how to create reviews that would help support their favourite book/author
-# REFERENCES
-1. https://www.analyticsvidhya.com/blog/2021/10/building-an-end-to-end-logistic-regression-model/
-2. https://www.mikulskibartosz.name/xgboost-hyperparameter-tuning-in-python-using-grid-search/
-3. https://pythonprogramming.net/introduction-scraping-parsing-beautiful-soup-tutorial/
-4. https://fasttext.cc/docs/en/supervised-tutorial.html
-5. https://www.datacamp.com/community/tutorials/text-analytics-beginners-nltk
 
 # WHAT WE LEARNT 
 1.  Web scraping using the Python library BeauitfulSoup and Selenium 
@@ -43,6 +37,13 @@ Using our Machine Learning Model, we can:
 3.  Refining our skills in matplotlib library for detailed Exploratory Data analysis 
 4.  sklearn library for Logistic Regression
 5.  XGBoost library for Gradient Boosting 
+# REFERENCES
+1. https://www.analyticsvidhya.com/blog/2021/10/building-an-end-to-end-logistic-regression-model/
+2. https://www.mikulskibartosz.name/xgboost-hyperparameter-tuning-in-python-using-grid-search/
+3. https://pythonprogramming.net/introduction-scraping-parsing-beautiful-soup-tutorial/
+4. https://fasttext.cc/docs/en/supervised-tutorial.html
+5. https://www.datacamp.com/community/tutorials/text-analytics-beginners-nltk
+
 
 
 
