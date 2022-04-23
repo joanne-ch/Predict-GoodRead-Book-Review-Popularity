@@ -1,4 +1,4 @@
-<img width="10000" alt="image" src="https://user-images.githubusercontent.com/92350663/164890945-72d37df1-769d-4077-bf5b-7e19b773e1ad.png">
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/92350663/164890945-72d37df1-769d-4077-bf5b-7e19b773e1ad.png">
 
 # PredictingBookReviewPopularity_SC1015_Project
 SC1015-Data Science Project!<br />
