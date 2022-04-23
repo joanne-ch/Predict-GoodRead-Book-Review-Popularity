@@ -6,6 +6,10 @@ Welcome to our Predicting Popularity of Book Reviews Project Repository:
 # ABOUT:
 Our Project for SC1015-Introduction to Data Science and Artificial Intelligence aims at predicting the Popularity of Book Reviews using the Goodreads book review dataset<br />
 The code can viewed in the aformentioned order:
+1. Data preparation  
+2. EDA
+3. Logistic Regression Model
+4. Xgboost Model
 
 # CONTRIBUTORS:
 1. JOANNE CHRISTINA SALIMIN : Data scrapping/cleaning & Preparation, Gradient Boosting Model
@@ -14,8 +18,8 @@ The code can viewed in the aformentioned order:
 
 # PROBLEM DEFINITON 
 <br />
-. Can we predict the popularity of book reviews based on their Textual & Non Textual charactertistics and thus stimulate reading interest among people?<br />
-. How do we select an optimal Machine Learning model to help us do the same?
+1. Can we predict the popularity of book reviews based on their Textual & Non Textual charactertistics and thus stimulate reading interest among people?<br />
+2. How do we select an optimal Machine Learning model to help us do the same?
 
 # MODELS USED
 1. XGBOOST-Gradient Boosting
