@@ -1,5 +1,5 @@
 # PredictingBookReviewPopularity_SC1015_Project
-SC1015-Data Science Project 
+SC1015-Data Science Project!
 Welcome to our Predicting Popularity of Book Reviews Project Repository:
 # ABOUT:
 Our Project for SC1015-Introduction to Data Science and Artificial Intelligence aims at predicting the Popularity of Book Reviews using the Goodreads book review dataset
