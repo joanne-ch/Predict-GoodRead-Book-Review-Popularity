@@ -1,15 +1,9 @@
 # PredictingBookReviewPopularity_SC1015_Project
-SC1015-Data Science Project!
+SC1015-Data Science Project!<br />
 Welcome to our Predicting Popularity of Book Reviews Project Repository:
 # ABOUT:
-Our Project for SC1015-Introduction to Data Science and Artificial Intelligence aims at predicting the Popularity of Book Reviews using the Goodreads book review dataset
+Our Project for SC1015-Introduction to Data Science and Artificial Intelligence aims at predicting the Popularity of Book Reviews using the Goodreads book review dataset<br />
 The code can viewed in the aformentioned order:
-1.
-2.
-3.
-4.
-5.
-6.
 
 # CONTRIBUTORS:
 1. JOANNE CHRISTINA SALIMIN : Data scrapping/cleaning & Preparation, Gradient Boosting Model
@@ -17,7 +11,8 @@ The code can viewed in the aformentioned order:
 3. NITHYA HARIHARAN: Exploratory Data Analysis 
 
 # PROBLEM DEFINITON 
-. Can we predict the popularity of book reviews based on their Textual & Non Textual charactertistics and thus stimulate reading interest among people?
+<br />
+. Can we predict the popularity of book reviews based on their Textual & Non Textual charactertistics and thus stimulate reading interest among people?<br />
 . How do we select an optimal Machine Learning model to help us do the same?
 
 # MODELS USED
