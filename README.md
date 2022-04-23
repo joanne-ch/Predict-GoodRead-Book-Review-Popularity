@@ -30,6 +30,9 @@ Using our Machine Learning Model, we can:
 1. Modify variables and predict what changes can be made to identify if the review is popular or not
 2. Predict potential popular book reviews with positive sentiment score and put it in the front page of GoodReads to receive increased interest in reader for that particular book
 3. Book reviewers can understand better how to create reviews that would help support their favourite book/author
+# OPTIMAL MODEL
+Given an unknown dataset, we observed that it was best to use Logistic Regression with an undersampled Non-Textual data as compared to XGBoost for our prediction. <br />
+The Logistic Regression model works generally well for predicting both popular and unpopular reviews.
 
 # WHAT WE LEARNT 
 1.  Web scraping using the Python library BeauitfulSoup and Selenium 
