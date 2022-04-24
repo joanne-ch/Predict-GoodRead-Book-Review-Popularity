@@ -50,5 +50,5 @@ The Logistic Regression model works generally well for predicting both popular a
 
 
 
-Dataset Used: https://drive.google.com/drive/folders/1FEuKncmRF5BChCKe2hoMEnktKBeiBFAr?usp=sharing 
-Slides Used: https://docs.google.com/presentation/d/1OR5Q_Z-tb1yqVvIYZrhJd_lFhDjJuTR82FMFf7DqoJ4/edit?usp=sharing
+<p> Dataset Used: https://drive.google.com/drive/folders/1FEuKncmRF5BChCKe2hoMEnktKBeiBFAr?usp=sharing <\p>
+<p> Slides Used: https://docs.google.com/presentation/d/1OR5Q_Z-tb1yqVvIYZrhJd_lFhDjJuTR82FMFf7DqoJ4/edit?usp=sharing <\p>
